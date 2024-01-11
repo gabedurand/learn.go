@@ -1,3 +1,3 @@
 ## Learning Go
 
-[ ] - Hello World
+[x] - Hello World
